@@ -1,4 +1,5 @@
 silly-slider 🎢
+
 A slider. It slides. What more do you want?
 
 Documentation
